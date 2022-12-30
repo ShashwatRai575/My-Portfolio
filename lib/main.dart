@@ -183,7 +183,7 @@ class _MyPortfolioState extends State<MyPortfolio> {
                     ),
                     SizedBox(width: 10.0),
                     Text(
-                      'shashwat.2226cse1189@kiet,edu',
+                      'shashwat.2226cse1189@kiet.edu',
                       style: TextStyle(
                         color: Colors.black,
                         fontSize: 18.0,
